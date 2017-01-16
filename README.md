@@ -1,8 +1,7 @@
 # Bienvenido al proyecto de nuestro equipo
 
 Los miembros del equipo son:
-
- * José Rodolfo Padró Valdéz
- * José Ramón Romano Herrera
- * Carlos Alberto Noriega Suárez
- * Fernando Chávez Rivera
+ * José Rodolfo Padró Valdés
+ * Jose Ramón Romano Herrera
+ * Carlos Alberto Noriega Suarez
+ * Fernando Chávez Rivera.
