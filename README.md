@@ -2,7 +2,7 @@
 
 Los miembros del equipo son:
 
- * José Rodolfo Padró Valdéz
+ * José Rodolfo Padró Valdés
  * Jose Ramón Romano Herrera
  * Carlos Alberto Noriega Suarez
  * Fernando Chávez Rivera.
